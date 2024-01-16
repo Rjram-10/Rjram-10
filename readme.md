@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramjee</h1>
 <h3 align="center">A passionate Data Science Learner from India</h3>
+<img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.yahoo.com%2Flifestyle%2F8-things-things-know-disney-190052289.html&psig=AOvVaw16jLJxX2S-gSGHI0I1fweF&ust=1705519781279000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLic7MPS4oMDFQAAAAAdAAAAABAD" p align="right" height=20px >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjram-10&label=Profile%20views&color=0e75b6&style=flat" alt="rjram-10" /> </p>
 
