@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjram-10&label=Profile%20views&color=0e75b6&style=flat" alt="rjram-10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rjram-10" alt="rjram-10" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.yahoo.com%2Flifestyle%2F8-things-things-know-disney-190052289.html&psig=AOvVaw16jLJxX2S-gSGHI0I1fweF&ust=1705519781279000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLic7MPS4oMDFQAAAAAdAAAAABAD">
+<img align="right" alt="Coding" width="400" src="https://s.yimg.com/ny/api/res/1.2/S4c9Re8xdSXwlkYqsrTA5w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk7Y2Y9d2VicA--/https://media.zenfs.com/en-US/homerun/hello_giggles_454/233fc3dec04038a9377f3542fa0d4841">
 
 
 - 🔭 I’m currently working on [JAVA](https://github.com/Rjram-10/Java)
